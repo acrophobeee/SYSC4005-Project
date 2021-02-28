@@ -1,5 +1,3 @@
-import logging
-
 
 class publicData(object):
 
@@ -27,4 +25,3 @@ class publicData(object):
             2: 0,
             3: 0,
         }
-
